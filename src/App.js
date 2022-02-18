@@ -6,4 +6,6 @@ class App extends React.Component {
   }
 }
 
+/* commit inicial */
+
 export default App;
